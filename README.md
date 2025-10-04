@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 <div id="titre" ,align:center>
     <h2> Hi welcome to my github ! :D </h2>
 </div>
