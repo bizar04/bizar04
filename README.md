@@ -17,6 +17,13 @@
         My youtube : https://youtube.com/@bizar_04
     </div>
 </div>
+<div id="description">
+    <h3>Descrition</h3>
+    
+</div>
+
+
+
 <!--
 **bizar04/bizar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
