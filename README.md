@@ -5,7 +5,7 @@
 <div id="social-media", align:center>
     <h3>Here are some of my social media</h3>
     <div id="tiktok">
-        <img src="tik-tok-logo-33095.png" alt="tiktok logo" width = 19px height = 25px>
+        <img src="tik-tok-logo-33095.png" alt="tiktok logo" width = 19px height = 25px margin-top = 4px>
         My tiktok : https://tiktok.com/@bizar04_fox
     </div>
     <div id="twitch">
