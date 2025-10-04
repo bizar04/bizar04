@@ -1,5 +1,14 @@
 ## Hi there 👋
-
+<div id="titre" ,align:center>
+    ## Hi welcome to my github ! :D
+</div>
+<div id="social-media", align:center>
+    <h2>Here are some of my social media</h2>
+    <div id="twitch">
+        <img src="https://github.com/bizar04/bizar04/blob/main/twitch_wordmark_extruded_purple.png" alt="Twitch logo"> 
+        My twitch : https://twitch.tv/bizar04
+    </div>
+</div>
 <!--
 **bizar04/bizar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
