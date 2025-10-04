@@ -2,9 +2,9 @@
     <h2> Hi welcome to my github ! :D </h2>
 </div>
 <div id="social-media", align:center>
-    <h2>Here are some of my social media</h2>
+    <h3>Here are some of my social media</h3>
     <div id="tiktok">
-        <img src="tik-tok-logo-33095.png" alt="tiktok logo" width = 100px height = 100px>
+        <img src="tik-tok-logo-33095.png" alt="tiktok logo" width = 53px height = 70px>
         My tiktok : https://tiktok.com/@bizar04_fox
     </div>
     <div id="twitch">
