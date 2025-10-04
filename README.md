@@ -4,7 +4,7 @@
 <div id="social-media", align:center>
     <h2>Here are some of my social media</h2>
     <div id="tiktok">
-        <img scr="tik-tok-logo-33095.png" alt="tiktok logo">
+        <img src="tik-tok-logo-33095.png" alt="tiktok logo">
         My tiktok : https://tiktok.com/@bizar04_fox
     </div>
     <div id="twitch">
@@ -12,7 +12,7 @@
         My twitch : https://twitch.tv/bizar04
     </div>
     <div id="Youtube">
-        <img scr="youtube-logo-png-46016.png" alt="Youtube logo">
+        <img src="youtube-logo-png-46016.png" alt="Youtube logo">
         My youtube : https://youtube.com/@bizar_04
     </div>
 </div>
