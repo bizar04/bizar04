@@ -9,11 +9,11 @@
         My tiktok : https://tiktok.com/@bizar04_fox
     </div>
     <div id="twitch">
-        <img src="twitch_wordmark_extruded_purple.png" alt="Twitch logo" width = 100px height = 100px> 
+        <img src="twitch_wordmark_extruded_purple.png" alt="Twitch logo" width = 74px height = 25px> 
         My twitch : https://twitch.tv/bizar04
     </div>
     <div id="Youtube">
-        <img src="youtube-logo-png-46016.png" alt="Youtube logo" width = 100px height = 100px>
+        <img src="youtube-logo-png-46016.png" alt="Youtube logo" width = 33px height = 25px>
         My youtube : https://youtube.com/@bizar_04
     </div>
 </div>
