@@ -14,12 +14,13 @@
     </div>
     <div id="Youtube">
         <img src="youtube-logo-png-46016.png" alt="Youtube logo" width = 33px height = 25px>
-        My youtube : https://youtube.com/@bizar_04
+        My youtube (gaming) : https://youtube.com/@bizar_04 My youtube(non gaming) : https://youtube.com/@bizarthefox
     </div>
 </div>
 <div id="description">
     <h3>Descrition</h3>
-    
+    Hiii so I'm bizar04 or bizar in short (I'm also bizarthefox or any variant with fox sometimes). So I like programing but I'm not very good at it yet. I hope I will be a programing engineer in the future. I plan on creating some sites and as an user of blender I will probably try to make add-ons for it.
+    Soooo uuhh if you're here from one of my programs I hope you will have fun with it, watch some of my content if you want to and have a great day ! :3
 </div>
 
 
